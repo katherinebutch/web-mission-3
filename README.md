@@ -6,7 +6,7 @@
 
 
 
-https://drive.google.com/drive/folders/1vWoMIYMde0yoqpkrtIPX6Nms2zDL7Ayl?usp=sharing
+https://drive.google.com/file/d/1FG9wVCs440PM7p6uhpbyd5RfZ1EQbBlL/view?usp=sharing
 
 ## SQL Queries
 
